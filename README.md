@@ -49,7 +49,7 @@ Make sure Pillow is installed:
 ---
 
 # 🖼️ GUI Preview
-(Add your screenshot here)
+![image alt](https://github.com/tulsidounekarr/Image_Resizer_Tool/blob/b777782d867030a639a3d9937bca3a02503adb2a/image%20(17).png)
 
 --- 
 
